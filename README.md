@@ -37,9 +37,3 @@
     * 2.5.2 Sobre Ubuntu 19 (Proximamente)
 
  
- ##
- **Programando Ideas 2020**
-  <a href="https://paypal.me/lp8126" target="_blank">
-    <img src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" alt="Donar con PayPal" />
-  </a>
- ##
